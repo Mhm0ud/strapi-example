@@ -1,3 +1,3 @@
 # Strapi application
 
-This is an expamle App, we are going to use to demonstrate the deployment process using AWS CloudFormation to setup the CI/CD.
+This is an expamle App, we are going to use it to demonstrate how to deploy your app using AWS CloudFormation template and setup the CI/CD pipeline.
