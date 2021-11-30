@@ -1,4 +1,4 @@
-FROM public.ecr.aws/i3n7v4i6/strapi:latest
+FROM strapi/strapi:latest
 
 WORKDIR /app
 
